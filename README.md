@@ -14,10 +14,6 @@ This project investigates the primary drivers of employee attrition at Sailfort 
 - Employees with lower satisfaction scores and longer overtime hours had higher likelihood of leaving.
 - Recommendations include reducing overtime, increasing engagement programs, and reviewing compensation policies.
 
-## Repository Contents
-- `notebooks/`: Final Jupyter Notebook
-- `reports/`: Executive summary PDF
-
 ## Tools & Technologies
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebook
